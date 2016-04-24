@@ -1,0 +1,6 @@
+[submodule "SpaceApps16_AirCheckAndroid"]
+	path = SpaceApps16_AirCheckAndroid
+	url = https://github.com/DaniSalva/SpaceApps16_AirCheckAndroid.git
+[submodule "SpaceApps16_AircheckWeb"]
+	path = SpaceApps16_AircheckWeb
+	url = https://github.com/VictorSanchez94/SpaceApps16_AircheckWeb.git
